@@ -3,6 +3,8 @@
 
 Authors: [Cierra Andaur](https://github.com/cierra4prez) and [Edward De Jesus](https://github.com/edejesus196)
 
+<p><img src="./images/Census_bureau.png" alt="Header"></p>
+
 ## Overview
 In this case study, we test several categorical models in order to determine whether an individual makes above or below the US median salary (defined by www.census.gov as $65,000 a year). In order to do this, we pull the US Census API for the 2019 Public Use Microdata Sample (PUMS). We concentrate on the following questions:
 
@@ -11,6 +13,9 @@ In this case study, we test several categorical models in order to determine whe
 * What industries and occupations have the greatest impact?
 
 ## Approach
+### Variables Key:
+<p><img src="./images/Screen Shot 2021-01-08 at 10.57.15 AM.png" alt="Variables"></p>
+
 
 ### Data and model preparation in 3 major steps:
 
@@ -44,7 +49,7 @@ More notably, using sklearn's GridSearch, additional valuable features were iden
 * Whether or not a person has given birth in the last 12 months.
 
  
-((PHOTO))
+<p><img src="./images/important_features.png" alt="Features"></p>
 
 ## Next Steps
 
@@ -61,14 +66,11 @@ It may be relevant to compare income with salary, which is defined simply as com
 
 ## Repository Structure
     
-    ├── Data                              Raw Files         
-    ├── Images                            Images
-    ├── Reference                         Reference Files 
-      ├── PUMS_Data_Dictionary_2019.pdf   PUMS Dictionary
-      ├── Variables_Dictionary.xlsx       Variables Dictionary
-    ├── EDA_Notebooks                     Original EDA Workbooks      
-    ├── census_income_2019_EDA.ipynb      EDA and Model Analysis
-    ├──       
-    └── README.md                         ReadMe
+    ├── Data                              Raw Files
+    ├── EDA_Notebooks                     Original EDA Workbooks    
+    ├── Reference                         Reference Files and Terms Dictionaries
+    ├── images                            Images
+    ├── README.md                         ReadMe
+    └── census_income_2019_EDA.ipynb      EDA and Model Analysis
 
 
