@@ -25,7 +25,7 @@ In this case study, we test several categorical models in order to determine whe
 
 3. **Modeling:** Create a baseline model to compare findings
 
-###Models tested:
+### Models tested:
 
 * Decision Trees
 * Logistic Regression
