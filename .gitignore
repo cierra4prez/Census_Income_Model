@@ -80,6 +80,7 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+census_income_2019_EDA_Cierra.ipynb
 
 # pyenv
 .python-version
