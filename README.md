@@ -1,6 +1,4 @@
-# US Census Income Predictions
-## A case study using 2019 US Census data
-
+# US Census Income Predictions: a case study using 2019 US Census data
 Authors: [Cierra Andaur](https://github.com/cierra4prez) and [Edward De Jesus](https://github.com/edejesus196)
 
 <p><img src="./images/Census_bureau.png" alt="Header"></p>
