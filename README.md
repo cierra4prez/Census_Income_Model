@@ -13,7 +13,7 @@ In this case study, we test several categorical models in order to determine whe
 
 ## Approach
 ### Variables Key:
-<p><img src="./images/Screen Shot 2021-01-08 at 10.57.15 AM.png" alt="Variables"></p>
+<p><img src="./images/Census_Income_Variables.png" alt="Variables"></p>
 
 
 ### Data and model preparation in 3 major steps:
